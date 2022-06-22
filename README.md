@@ -1,5 +1,7 @@
 # Linear programming applied to the material optimization for the construction of a pediatric electric wheelchair built with pvc pipes
 
+[![DOI](https://zenodo.org/badge/506347095.svg)](https://zenodo.org/badge/latestdoi/506347095)
+
 This repository contains two files of Jupyter Notebook:
 
 - Setup1: 22-item test
