@@ -1,4 +1,4 @@
-# Linear programming applied to the material optimization for the construction of a pediatric electric wheelchair built with pvc pipes
+# Linear programming applied to the material optimization for the construction of a pediatric electric wheelchair built with PVC pipes
 
 [![DOI](https://zenodo.org/badge/506347095.svg)](https://zenodo.org/badge/latestdoi/506347095)
 
