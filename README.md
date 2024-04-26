@@ -1,6 +1,6 @@
 # Linear programming applied to the material optimization for the construction of a pediatric electric wheelchair built with PVC pipes
 
-This repository contains two files of Jupyter Notebook:
+This repository contains files about the article "Linear programming applied to the material optimization for constructing a pediatric electric wheelchair built with PVC pipes" submitted to the Brazilian Congress on Biomedical Engineering. In this repository, you can find two files of Jupyter Notebook:
 
 - Setup1: 22-item test
 - Setup2: 78-item setup
